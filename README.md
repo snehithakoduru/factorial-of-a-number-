@@ -53,11 +53,12 @@ END
 
 ```
 OUTPUT
+![6 1](https://github.com/user-attachments/assets/6ac2fe7a-d879-40a6-bb81-4eaf22032620)
 
-(Keil output screenshot can be inserted here)
 
 ---
 MANUAL CALCULATIONS
+![6 2](https://github.com/user-attachments/assets/8ab4be5b-43fe-43c3-a2e3-263cdb9a2e3d)
 
 ---
 
